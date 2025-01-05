@@ -20,7 +20,7 @@ This is a responsive Image Gallery application built using **ReactJS** and **Tai
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-gallery.git
+   git clone https://github.com/VinayShetyeOfficial/image-gallery.git
    ```
 
 2. Navigate to the project directory:
