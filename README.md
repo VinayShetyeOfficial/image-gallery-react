@@ -1,4 +1,4 @@
-# ReactJS Image Gallery 🖼️  
+# Image Gallery 🖼️  
 
 ![image](https://github.com/user-attachments/assets/82592bed-25b6-4ba0-8107-94974ea50efb)
 
